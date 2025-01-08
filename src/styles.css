@@ -3,7 +3,7 @@ body {
   background-color: rgb(236, 238, 239);
 }
 #preview {
-  height: 100px; /* Set a default height, you can adjust this value */
+  min-height: 100px;
 }
 #preview img {
   max-width: 100%;
