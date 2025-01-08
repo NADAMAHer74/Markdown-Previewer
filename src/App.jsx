@@ -72,7 +72,7 @@ And if you want to get really crazy, even tables:
             rows="14"
           ></textarea>
         </div>
-        <div className="col-md-8">
+        <div className="col-md-8 ">
           <label className="text-center bg-dark-subtle m-0 w-100 fs-4">
             Preview
           </label>
